@@ -10,14 +10,14 @@ Material:
   m_Name: Ebony
   m_Shader: {fileID: -6465566751694194690, guid: 265c89cc8416e1141b21fcc9a162ed91, type: 3}
   m_Parent: {fileID: 2100000, guid: 41e7b8e78da56294dbc5a09fa41118e8, type: 2}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _ALPHATEST_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2450
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses: []
@@ -42,4 +42,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 6
+  version: 7
