@@ -6,7 +6,7 @@ This demo allows you to remotely set and swap the character that offers a quest.
 # Setup
 * Built with Unity 2022.3.5.
 * [Register](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=3D_farming_reskin&utm_source=GITHUB&utm_medium=repo) for your free echo3D account.
-* [The echo3D SDK](https://medium.com/r/?url=https%3A%2F%2Fdocs.echo3d.com%2Funity%2Finstallation) has already been installed.
+* [The echo3D SDK](https://docs.echo3d.com/unity/installation) has already been installed.
 * Clone this repo.
 
 # Steps
