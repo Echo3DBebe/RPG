@@ -3,6 +3,9 @@ This RPG game is forked from [CLeavitt18](https://medium.com/r/?url=https%3A%2F%
 
 This demo allows you to remotely set and swap the character that offers a quest.
 
+# Video
+Follow the video [here](https://youtu.be/ulG_qWCf7DQ).
+
 # Setup
 * Built with Unity 2022.3.5.
 * [Register](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=3D_farming_reskin&utm_source=GITHUB&utm_medium=repo) for your free echo3D account.
